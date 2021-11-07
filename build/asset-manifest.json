@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.632d651d.chunk.css",
+    "main.js": "/Portfolio/static/js/main.6ffd04a7.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.6ffd04a7.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.6eacdca0.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.6eacdca0.js.map",
+    "static/js/2.b3cdbd07.chunk.js": "/Portfolio/static/js/2.b3cdbd07.chunk.js",
+    "static/js/2.b3cdbd07.chunk.js.map": "/Portfolio/static/js/2.b3cdbd07.chunk.js.map",
+    "static/js/3.aa5cf6c7.chunk.js": "/Portfolio/static/js/3.aa5cf6c7.chunk.js",
+    "static/js/3.aa5cf6c7.chunk.js.map": "/Portfolio/static/js/3.aa5cf6c7.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.632d651d.chunk.css.map": "/Portfolio/static/css/main.632d651d.chunk.css.map",
+    "static/js/2.b3cdbd07.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.b3cdbd07.chunk.js.LICENSE.txt",
+    "static/media/Arjit's-Resume.78e2c0b5.pdf": "/Portfolio/static/media/Arjit's-Resume.78e2c0b5.pdf",
+    "static/media/Logo.10729dad.png": "/Portfolio/static/media/Logo.10729dad.png",
+    "static/media/ballrun.f942f4fa.jpg": "/Portfolio/static/media/ballrun.f942f4fa.jpg",
+    "static/media/dp.2742e5ec.jpg": "/Portfolio/static/media/dp.2742e5ec.jpg",
+    "static/media/flipmart.b7bb9965.jpg": "/Portfolio/static/media/flipmart.b7bb9965.jpg",
+    "static/media/logo.6ce24c58.svg": "/Portfolio/static/media/logo.6ce24c58.svg",
+    "static/media/mausam.839f4d95.jpg": "/Portfolio/static/media/mausam.839f4d95.jpg",
+    "static/media/portfolioimg.a5e86aca.png": "/Portfolio/static/media/portfolioimg.a5e86aca.png",
+    "static/media/todolist.f7cbcea3.jpg": "/Portfolio/static/media/todolist.f7cbcea3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6eacdca0.js",
+    "static/js/2.b3cdbd07.chunk.js",
+    "static/css/main.632d651d.chunk.css",
+    "static/js/main.6ffd04a7.chunk.js"
+  ]
+}
