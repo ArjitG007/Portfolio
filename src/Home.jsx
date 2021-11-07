@@ -14,9 +14,9 @@ const Home = () => {
             <a href="./pdf/Arjit's-Resume.pdf" download>
               <button>Resume</button>
             </a>
-            <a href="/skills">
+            {/* <a href="/skills">
               <button>Contact Me</button>
-            </a>
+            </a> */}
             {/* <Link to="/contact"><button>Contact Me</button></Link> */}
           </div>
           <div className="links">
