@@ -1,5 +1,6 @@
 import React from "react";
 import dp from "./dp.jpg";
+import fbdp1 from "./fbdp1.jpg"
 import { Link } from "react-router-dom";
 import resume from "./Arjit's-Resume.pdf"
 const About = () => {
@@ -21,7 +22,7 @@ const About = () => {
             </a>
           </div>
           <div className="rightone">
-            <img src={dp} alt="" />
+            <img src={fbdp1} alt="" />
           </div>
         </div>
       </div>

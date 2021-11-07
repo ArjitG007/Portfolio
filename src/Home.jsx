@@ -13,11 +13,11 @@ const Home = () => {
           <h3>Software Engineer</h3>
           <div className="buttons">
           <a href={resume} download="Arjit's Resume">
-              <button>Resume</button>
+              <button>Download Resume</button>
             </a>
-            <Link to="/contact">
+            {/* <Link to="/about">
               <button>Contact Me</button>
-            </Link>
+            </Link> */}
             {/* <Link to="/contact"><button>Contact Me</button></Link> */}
           </div>
           <div className="links">
